@@ -1,0 +1,52 @@
+{
+  "dataobat": [
+        { "id": 1, 
+          "title": "Alprazolam", 
+          "img": "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/01/02070808/Alprazolam.jpg.webp",
+          "jenis" : "Antiansietas (Sedatif/Anxyolitic)",
+          "desc" : "Alprazolam adalah obat golongan benzodiazepin. Obat ini biasanya digunakan sebagai pengobatan untuk mengatasi gejala gangguan kecemasan dan gangguan panik. "
+          },
+        { "id": 2, 
+          "title": "Diazepam", 
+          "img": "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/04/14040505/diazepam-halodoc.jpg.webp",
+          "jenis" : "Antiansietas (Sedatif/Anxyolitic)",
+          "desc" : "Diazepam adalah obat yang termasuk dalam kelompok benzodiazepin. Obat ini bekerja dengan cara meningkatkan aktivitas neurotransmitter tertentu di otak. "
+          },
+        { "id": 3, 
+            "title": "Amitriptilin", 
+            "img": "https://cms.gooddoctor.co.id/wp-content/uploads/2020/12/amitriptylin-antidepresan-tablets.jpg",
+            "jenis" : "Antidepresan",
+            "desc" : "Amitriptilin merupakan obat golongan antidepresan trisiklik yang memiliki efek sedatif. Amitriptilin memengaruhi zat kimiawi otak yang berfungsi untuk komunikasi sel-sel otak dan mood stabilizer."
+            },
+        { "id": 4, 
+            "title": "Haloperidol", 
+            "img": "https://www.speedsmedical.co.uk/media/catalog/product/cache/9a661e5a4907b1df90e776e3c9f741ba/h/a/haliperidol-5mg.png",
+            "jenis" : "Antipsikotik",
+            "desc" : "Haloperidol adalah obat antipsikotik yang digunakan untuk mengobati skizofrenia. Haloperidol juga digunakan untuk mengontrol motorik dan gangguan bicara pada orang dengan sindrom Tourette. "
+            },
+            { "id": 5, 
+            "title": "Asam Valproat", 
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlj4qqqurEhflaRwgEkcHocvrge9iyqNi09HEFtlEuEk5ahFCQoYf77gDJfecex-aEYsM&usqp=CAU",
+            "jenis" : " Mood stabilizer/antimania",
+            "desc" : "Asam valproat termasuk dalam kelas obat yang disebut antikonvulsan (antikejang). Obat ini bekerja dengan mengembalikan keseimbangan zat alami tertentu (neurotransmiter) di otak. digunakan untuk mengobati mania pada orang dengan gangguan bipolar. Obat ini juga digunakan untuk mencegah migrain."
+            },
+          { "id": 6, 
+            "title": "Sertraline", 
+            "img": "https://d2qjkwm11akmwu.cloudfront.net/products/282470_26-12-2019_9-31-13-1665793804.webp",
+            "jenis" : "Antiansietas (Sedatif/Anxyolitic)",
+            "desc" : "Sertraline adalah obat dengan fungsi untuk mengobati depresi, serangan panik, gangguan obsesif kompulsif (OCD), stress pasca-trauma, kecemasan sosial (fobia sosial), dan bentuk parah sindrom pramenstruasi (premenstrual dysphoric disorder)."
+            },
+          { "id": 7, 
+              "title": "Risperidonen", 
+              "img": "https://static.wixstatic.com/media/64db44_e40d6adcfdc447628fcea65452dc259c~mv2.jpg/v1/fill/w_2825,h_2933,al_c,q_90/Gallery%20Kesehatan%20Jiwa-12.jpg",
+              "jenis" : "Antipsikotik",
+              "desc" : "Obat ini digunakan dalam terapi pada skizofrenia akut dan kronik serta pada kondisi psikosis yang lain, dengan gejala-gejala tambahan (seperti; halusinasi, delusi, gangguan pola pikir, kecurigaan dan rasa permusuhan) dan atau dengan gejala-gejala negatif yang terlihat nyata (seperti; blunted affect, menarik diri dari lingkungan sosial dan emosional, sulit berbicara)."
+              },
+          { "id": 8, 
+              "title": "Quetvell", 
+              "img": "https://d2qjkwm11akmwu.cloudfront.net/products/171689_5-12-2021_22-43-16-1665824428.webp",
+              "jenis" : "Mood stabilizer/antimania",
+              "desc" : "Quetvell digunakan untuk mengatasi episode manik akut gangguan bipolar (penyakit otak yang menyebabkan gangguan pada perasaan, energi, dan kemampuan untuk melakukan pekerjaan sehari-hari), skizofrenia (gangguan mental di manapenderitanya mengalami halusinasi), mencegah gangguan bipolar, fase depresi gangguan bipolar. Quetvell bekerja dengan mengembalikan keseimbangan zat alami tertentu (neurotransmitter) di otak."
+              }
+    ]
+}
